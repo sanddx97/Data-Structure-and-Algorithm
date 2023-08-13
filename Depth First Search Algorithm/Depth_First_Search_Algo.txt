@@ -1,0 +1,25 @@
+Optimization for criteria (Cost, SPeed, safety, fuel, etc)
+
+Pathfinding
+
+Scheduling algorithms
+
+Assessing investment decision trees
+
+Ordering of formula cell evaluation in spreadsheet
+
+Determining the order of compilation tasks for software builds
+
+Data serialization
+
+Resolving symbol dependecies
+
+Stack: [start_pos]
+Predecessors: {start_pos: None}
+
+Algorithm
+Pop the Stack
+Is this the goal?
+If so, we are done
+Otherwise, push undiscovered neighbors onto the stack and add them to Predecessors/discovered
+Repeat while there are items still on the stack

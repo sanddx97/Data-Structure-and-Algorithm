@@ -1,0 +1,14 @@
+Applications of A* search
+    Traffic navigational system (for example A*)
+    Social Network analysis
+    Natural Language processing
+    Machine Learning
+    Puzzle Solutions and Puzzle analogous problems
+    Algorithmic trading
+    Robotics
+    Video Games
+
+Key Values in the A* algorithm
+    G-value - best distance form start to current cell
+    H value - heuristic distance from current cell to destination
+    F value - the sum of the G value and the H value(representing the probable optimal value or minimum distance based on the heuristic used)
