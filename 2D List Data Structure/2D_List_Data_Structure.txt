@@ -1,0 +1,9 @@
+Application of 2D lists
+
+1. Representing grids like screen pixels
+2. Representing tabular data like a spreadsheet
+3. Matrices for mathematicak applications
+4. Representing game boards
+5. Storing and accessing data from scientific experiments
+6. 2D indices can be used to access DOM elements
+

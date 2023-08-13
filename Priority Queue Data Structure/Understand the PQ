@@ -1,0 +1,12 @@
+Application of the Priority Queue
+    Artificial intelligence: for example, A* search algorithm
+    Optimization algorithms
+    Operating system process scheduling
+    bandwidth management
+    Statistical analysis
+    Spam filtering
+
+Priority Queue Operations
+    get() : retrive the item with the highest Priority
+    put(item) : add item to Priority Queue
+    is_empty() : determine if the Priority Queue is is_empty

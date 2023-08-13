@@ -1,0 +1,9 @@
+Application of Breadth First Search
+    GPS systems
+    Flight reservation systems
+    Finding neighbor nodes in peer-to-peer networks
+    Social networking sites to find connnections between users
+    Web crawlers
+    Many application in artificial intelligence
+    Electronics and communication engineering
+    Scientific modeling

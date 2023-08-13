@@ -1,0 +1,18 @@
+Application of the Queue
+    CPU scheduling
+    Data is transferred asynchronously between two process
+    Graph traversal algorithms
+    Transport and operations management
+    File Servers
+    IO buffers
+    Printer Queue
+    Phone calls to customer service hotlines
+    Resource is shared among multiple consumers
+
+The Queue Data Structure
+    Front(head) of the queue removes a person
+    Rear (tail) of the queue adds a person
+
+Signature operations    
+    enqueue(): add an item to the end of the queue
+    dequeue(): remove and return the item at the Front
